@@ -4,17 +4,17 @@
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-slate-100 hover:text-slate-900"
         @click="btnHome"
         >
-          Home
+          Home 🏡
       </button>
       <button
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-slate-100 hover:text-slate-900"
         >
-          About Me
+          About Me 🦄
       </button>
       <button
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-slate-100 hover:text-slate-900"
         >
-          Projects
+          Projects 🚀
       </button>
     </nav>
 </template>
