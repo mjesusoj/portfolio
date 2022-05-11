@@ -2,14 +2,17 @@
   <div class="md:container md:mx-auto">
     <header>
       <div class="columns-auto">
+        <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
+          MJesu's Portfolio
+        </h1>
         <Navbar />
       </div>
       <div class="columns-xl mt-5">
         <figure class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-          <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-lg rounded-full mx-auto" src="./assets/photo-mj.png" alt="Vue logo"  />
+          <img class="w-24 h-23 md:w-48 md:h-auto md:rounded-md rounded-full mx-auto" src="./assets/photo-mj.png" alt="Vue logo"  />
           <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <blockquote>
-              <h1 class="text-4xl text-sky-500 font-bold bg-clip-text">
+              <h1 class="text-3xl text-sky-500 font-bold bg-clip-text">
                 About Me
               </h1>
               <p class="text-sky-200 font-medium mt-2">
