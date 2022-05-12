@@ -1,25 +1,42 @@
 <template>
   <div class="md:container md:mx-auto">
-    <header>
-      <div class="columns-auto">
-        <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
-          MJesu's Portfolio
-        </h1>
+    <div class="grid grid-cols-6 gap-4">
+        <div class="col-start-2 col-span-4 ...">
+          <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
+            Portfolio
+          </h1>
+          
+          <Navbar />
+        </div>
+
+        <div class="col-span-4 col-end-6 ...">
+          <div class="columns-xl mt-5">
+            <AboutMe />
+          </div>
+        </div>
+
+        <div class="col-start-2 col-span-4">
+          <Projects />
+        </div>
         
-        <Navbar />
+        <div class="col-start-2 col-span-4 mt-5 mb-5">
+          <p class="text-sky-200 font-medium mt-2">
+              Todo los derechos reservados: Manuel Jesús Ojeda ©️ 2022
+          </p>
+          
+          <Footer />
+        </div>
       </div>
-      <div class="columns-xl mt-5">
-        <AboutMe />
-      </div>
-    </header>
   </div>
 </template>
 
 <script setup>
   // This starter template is using Vue 3 <script setup> SFCs
   // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-  import Navbar from './components/Navbar.vue'
+  import Navbar from './components/ui/Navbar.vue'
   import AboutMe from './components/AboutMe.vue'
+  import Projects from './components/Projects.vue'
+  import Footer from './components/ui/Footer.vue'
 </script>
 
 <style>
