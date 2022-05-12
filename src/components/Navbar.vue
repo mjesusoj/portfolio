@@ -1,35 +1,34 @@
 <template>
     <nav class="flex sm:justify-center space-x-4">
-      <button
+      <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-amber-400 hover:text-slate-900"
-        @click="btnHome"
+        href="#"
         >
           Home 🏡
-      </button>
-      <button
+      </a>
+      <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-amber-400 hover:text-slate-900"
+        href="#about-me"
         >
           About Me 🦄
-      </button>
-      <button
+      </a>
+      <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-amber-400 hover:text-slate-900"
+        href="#projects"
         >
           Projects 🚀
-      </button>
+      </a>
     </nav>
 </template>
 
 <script>
     export default {
-        methods: {
-            btnHome() {
-                console.log('hello');
-                
-            }
-        },
+
     }
 </script>
 
 <style scoped>
-    
+    a {
+        cursor: pointer;
+    }
 </style>
