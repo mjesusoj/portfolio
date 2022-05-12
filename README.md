@@ -6,23 +6,34 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-### Config Project with Vite (Process)
+### Process to create project with Vite
 ```
     npm init vite portfolio
     cd portfolio
 ```
 
-#### Run the CLI tool to scan your template files for classes and build your CSS
+#### 1. Run the CLI tool to scan your template files for classes and build your CSS (one posibility 👇)
 ```
     npx tailwindcss -i ./src/assets/css/index.css -o ./public/dist/output.css --watch
 ```
 
-##### Start using Tailwind in HTML (Link to CSS)
+#### 2. Install TailwindCSS with Postcss (the best posibility 👇)
+```
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
+```
+
+##### Start using Tailwind in HTML (Link to CSS - If you choose the first option 👇)
 ```
     <link rel="stylesheet" href="./dist/output.css">
 ```
 
-###### Finally: Run server
+##### Start using Tailwind in JS (Link to CSS - If you choose the second option 👇)
+```
+    import './assets/css/index.css'
+```
+
+###### Then: Run server 🦄
 ```
     npm run dev
 ```
