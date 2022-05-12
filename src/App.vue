@@ -3,7 +3,7 @@
     <div class="grid grid-cols-6 gap-4">
         <div class="col-start-2 col-span-4 ...">
           <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
-            Portfolio
+            Portfolio Dev 👨‍💻
           </h1>
           
           <Navbar />
@@ -21,7 +21,7 @@
         
         <div class="col-start-2 col-span-4 mt-5 mb-5">
           <p class="text-sky-200 font-medium mt-2">
-              Todo los derechos reservados: Manuel Jesús Ojeda ©️ 2022
+              Todos los derechos reservados: Manuel Jesús Ojeda ©️ 2022
           </p>
           
           <Footer />
