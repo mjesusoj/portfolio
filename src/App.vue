@@ -40,6 +40,8 @@
 </script>
 
 <style>
+  html { scroll-behavior: smooth }
+
   body {
     text-align: center;
     background:#282c34;
