@@ -2,10 +2,10 @@
     <div id="projects">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Projects
+                Projects 💻
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Aquí se muestran algunos de mis proyectos realizados, utilizando diferentes tecnologías y frameworks.
+                Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
             </p>
         </div>
         <div class="list gap-10 columns-1 lg:columns-3 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
@@ -15,10 +15,12 @@
                 </a>
                 <p class="font-medium mt-2">
                     Este proyecto me ha permitido conocer más de las tecnologías que se utilizan en el desarrollo de páginas web.
-                    De hecho es el más completo que tengo, porque comenzó desde un desarrollo personal 
+                    De hecho es el más completo que tengo, porque comenzó desde un desarrollo personal
                     y se ha convertido en un reto, ya que en un principio estaba diseñada con HTML, CSS y JS.
-                    Ahora en la actualidad, está diseñada con React.js, utilizando preprocesadores como SASS, 
-                    react router para manejar las rutas dentro de la página, entre otras tecnologías.
+                    Ahora en la actualidad, está diseñada con React.js, mejor reedistribuida, utilizando preprocesadores como SASS, 
+                    react-router para manejar las rutas dentro de la página, entre otras tecnologías.
+                    <br /><br />
+                    También he aprendido a implementar SEO en el proyecto, para que se vea mejor en los buscadores.
                 </p>
             </div>
             <div class="pokemonGame">
@@ -28,10 +30,11 @@
                 <p class="font-medium mt-2">
                     Este proyecto pertenece al curso de 
                     <a class="text-amber-300 hover:text-amber-500 font-bold" href="https://www.udemy.com/course/vuejs-fh/" target="_blank" rel="noopener noreferrer">
-                        Vue.js: De cero a experto
+                        Vue.js: De cero a experto de Udemy
                     </a>,
-                    está desarrollado con Vue.js, manejo de rutas con Vue Router.
-                    Además de usar Bootstrap como framework de CSS y de FontAwesome para los iconos.
+                    es un pequeño juego de pokemon, el cual está desarrollado con Vue.js, manejo de rutas con Vue Router.
+                    El listado de pokemons, se recogen de una API externa y se muestran en una lista, con la ayuda de Vuex.
+                    Además de usar Bootstrap como framework de CSS, FontAwesome para los iconos, animaciones y fuentes personalizadas.
                 </p>
             </div>
             <div class="app-tailwind">

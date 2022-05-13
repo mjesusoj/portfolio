@@ -4,7 +4,7 @@
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
-                    About Me
+                    About Me 📘
                 </h2>
                 <p class="text-sky-200 font-medium mt-2">
                     Me gusta la tecnología desde los 16 años, que es cuando comencé el Grado Medio de SMR.
