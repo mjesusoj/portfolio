@@ -9,7 +9,7 @@
           <Navbar />
         </div>
 
-        <div class="col-span-4 col-end-6 ...">
+        <div class="col-span-4 col-end-6">
           <div class="columns-xl mt-5">
             <AboutMe />
           </div>

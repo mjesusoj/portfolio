@@ -1,6 +1,6 @@
 <template>
     <figure id="about-me" class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-        <img class="w-24 h-24 md:w-auto md:h-auto md:rounded-md rounded-full mx-auto" src="../assets/photo-mj.png" alt="Vue logo"  />
+        <img class="w-25 h-24 md:w-4/12 md:h-full xl:w-auto xl:h-auto md:rounded-md rounded-full mx-auto" src="../assets/photo-mj.png" alt="Vue logo"  />
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
         <blockquote>
             <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
