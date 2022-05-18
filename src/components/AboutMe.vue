@@ -18,8 +18,10 @@
                 </p>
             </blockquote>
             <figcaption class="font-bold">
-                <div class="text-sky-500 dark:text-sky-400">
-                    Manuel Jesús Ojeda
+                <div class="text-sky-500 hover:text-sky-700">
+                    <a href="https://www.linkedin.com/in/mjesusoj" target="_blank" rel="noopener noreferrer">
+                        Manuel Jesús Ojeda
+                    </a>
                 </div>
                 <div class="text-slate-600 dark:text-slate-400">
                     Front-End Developer 👨‍💻 | Desarrollador web 
