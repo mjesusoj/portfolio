@@ -19,7 +19,7 @@
                     y se ha convertido en un reto, ya que en un principio estaba diseñada con HTML, CSS y JS.
                     Ahora en la actualidad, está diseñada con React.js, mejor reedistribuida, utilizando preprocesadores como SASS, 
                     react-router para manejar las rutas dentro de la página, entre otras tecnologías.
-                    <br /><br />
+                    <br /><br /><br />
                     También he aprendido a implementar SEO en el proyecto, para que se vea mejor en los buscadores.
                 </p>
             </div>

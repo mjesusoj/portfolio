@@ -21,7 +21,8 @@
         
         <div class="col-start-2 col-span-4 mt-5 mb-5">
           <p class="text-sky-200 font-medium mt-2">
-              Todos los derechos reservados: Manuel Jesús Ojeda ©️ 2022
+              Todos los derechos reservados <br />
+              Manuel Jesús Ojeda ©️ 2022
           </p>
           
           <Footer />
