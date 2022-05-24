@@ -7,14 +7,15 @@
                     About Me 📘
                 </h2>
                 <p class="text-sky-200 font-medium mt-2">
-                    Me gusta la tecnología desde los 16 años, que es cuando comencé el Grado Medio de SMR.
+                    Me gusta la tecnología desde los 16 años, en ese momento comencé el Grado Medio de SMR.
                     <br />
-                    En ese momento, me encontré con el mundo de la tecnología, y cuando cursaba el segundo año, 
-                    me interesé por el desarrollo web.
+                    Aprendí muchas cosas y cuando cursaba el segundo año, 
+                    me interesé por el desarrollo web, aprendiendo lo básico de HTML, CSS y JS
                     <br />
                     Cuando finalicé el grado medio, supe que quería estudiar el Grado Superior de DAW y desde ese momento,
-                    empecé a aprender las tecnologías necesarias para desarrollar aplicaciones web y 
-                    a profundizar en el mundo de los frameworks, por mi cuenta, con ayuda de cursos online, hasta hoy.
+                    empecé a aprender más de las tecnologías necesarias para desarrollar aplicaciones web y 
+                    a profundizar en el mundo de los frameworks, por mi cuenta, con ayuda de cursos online, 
+                    hasta conseguir hacer varios proyectos y desarrollarme como desarrollador web.
                 </p>
             </blockquote>
             <figcaption class="font-bold">

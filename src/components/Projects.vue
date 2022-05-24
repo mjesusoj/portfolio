@@ -29,7 +29,7 @@
                 </a>
                 <p class="font-medium mt-2">
                     Este proyecto pertenece al curso de 
-                    <a class="text-amber-300 hover:text-amber-500 font-bold" href="https://www.udemy.com/course/vuejs-fh/" target="_blank" rel="noopener noreferrer">
+                    <a class="text-orange-300 hover:text-orange-400 font-bold" href="https://www.udemy.com/course/vuejs-fh/" target="_blank" rel="noopener noreferrer">
                         Vue.js: De cero a experto de Udemy
                     </a>,
                     es un pequeño juego de pokemon, el cual está desarrollado con Vue.js, manejo de rutas con Vue Router.
@@ -70,4 +70,6 @@
     .list > div {
         margin-top: 3%;
     }
+
+    /* color: #42b983; */
 </style>

@@ -10,3 +10,38 @@
 * {
     font-family: cascadiaCode;
 }
+
+body::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+/* Ponemos un color de fondo y redondeamos las esquinas del thumb */
+body::-webkit-scrollbar-thumb {
+    background:  #38bdf8;
+    border-radius: 10px;
+    border-right: 2px solid #38bdf8;
+}
+
+/* Cambiamos el fondo y agregamos una sombra cuando esté en hover */
+body::-webkit-scrollbar-thumb:hover {
+    background: #0ea5e9;
+    /* box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2); */
+}
+
+/* Cambiamos el fondo cuando esté en active */
+body::-webkit-scrollbar-thumb:active {
+    background-color: #0ea5e9;
+}
+
+/* Ponemos un color de fondo y redondeamos las esquinas del track */
+body::-webkit-scrollbar-track {
+    background: #e1e1e1;
+    border-radius: 4px;
+}
+
+/* Cambiamos el fondo cuando esté en active o hover */
+body::-webkit-scrollbar-track:hover,
+body::-webkit-scrollbar-track:active {
+  background: #d4d4d4;
+}
