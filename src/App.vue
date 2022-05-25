@@ -3,7 +3,7 @@
     <div class="grid grid-cols-6 gap-4">
         <div class="col-start-2 col-span-4 ...">
           <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
-            Portfolio Dev 👨‍💻
+            MJesu's Portfolio 👨‍💻
           </h1>
           
           <Navbar />
