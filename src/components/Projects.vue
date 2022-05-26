@@ -13,15 +13,21 @@
                 <a href="https://craftianosmoney.com" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">CraftianosMoney Page</h3>
                 </a>
-                <p class="font-medium mt-2">
+                <!-- <p class="font-medium mt-2">
                     Este proyecto me ha permitido conocer más de las tecnologías que se utilizan en el desarrollo de páginas web.
-                    De hecho es el más completo que tengo, porque comenzó desde un desarrollo personal
-                    y se ha convertido en un reto, ya que en un principio estaba diseñada con HTML, CSS y JS.
-                    Ahora en la actualidad, está diseñada con React.js, mejor reedistribuida, utilizando preprocesadores como SASS, 
-                    react-router para manejar las rutas dentro de la página, entre otras tecnologías.
-                    <br /><br /><br />
-                    También he aprendido a implementar SEO en el proyecto, para que se vea mejor en los buscadores.
-                </p>
+                </p> -->
+                <ul class="list-disc list-inside text-left p-3">
+                    <li class="mt-1">Es el proyecto <i>que más completo tengo, ya que se convirtió en un reto personal</i></li>
+                    <li class="mt-1">Desarrollado con <b>React.js</b> y uso de <b>react-router</b> para el manejo de rutas ✅</li>
+                    <li class="mt-1">Uso de frameworks CSS como <b>Bootstrap</b> y <b>SCSS</b> como preprocesador ✅</li>
+                    <li class="mt-1">Implementación de <b>técnicas SEO</b> para el posicionamiento en buscadores ✅</li>
+                </ul>
+                <div class="tech mt-2">
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">HTML</button>
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">CSS</button>
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">JS</button>
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">React JS</button>
+                </div>
             </div>
             <div class="pokemonGame">
                 <a href="https://pokemon-game-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
