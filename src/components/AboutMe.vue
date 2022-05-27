@@ -6,17 +6,18 @@
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
                     About Me 📘
                 </h2>
-                <p class="text-sky-200 font-medium mt-2">
-                    Me gusta la tecnología desde los 16 años, en ese momento comencé el Grado Medio de SMR.
-                    <br />
-                    Aprendí muchas cosas y cuando cursaba el segundo año, 
-                    me interesé por el desarrollo web, aprendiendo lo básico de HTML, CSS y JS
-                    <br />
-                    Cuando finalicé el grado medio, supe que quería estudiar el Grado Superior de DAW y desde ese momento,
-                    empecé a aprender más de las tecnologías necesarias para desarrollar aplicaciones web y 
-                    a profundizar en el mundo de los frameworks, por mi cuenta, con ayuda de cursos online, 
-                    hasta conseguir hacer varios proyectos y desarrollarme como desarrollador web.
-                </p>
+                <ul class="list-disc list-inside text-left p-3 text-sky-200">
+                    <li class="mt-2">Desde los 16 años, aprendiendo de la tecnología ✨</li>
+                    <li class="mt-2">
+                        Comencé tomando el Grado Medio SMR y más tarde el Grado Superior DAW, 
+                        con el que me encontré con el mundo de la programación web ✅ 
+                    </li>
+                    <li class="mt-2">
+                        Con ayuda de cursos online y mi esfuerzo he llegado hasta hoy, 
+                        aprendiendo más sobre las tecnologías necesarias para desarrollar páginas web, 
+                        incluso en profundizar los frameworks más utilizados en el mercado.
+                    </li>
+                </ul>
             </blockquote>
             <figcaption class="font-bold">
                 <div class="text-sky-500 hover:text-sky-700">
