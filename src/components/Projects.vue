@@ -23,22 +23,23 @@
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        HTML
+                        HTML <v-icon name="vi-file-type-html" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        CSS
+                        CSS <v-icon name="vi-file-type-css" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        JS
+                        JS <v-icon name="fa-js" />
                     </button>
-                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        React.js
+                        React <v-icon name="vi-file-type-reactjs" />
                     </button>
                 </div>
             </div>
+
             <div class="pokemonGame">
                 <a href="https://pokemon-game-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Pokemon Game</h3>
@@ -66,22 +67,23 @@
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        HTML
+                        HTML <v-icon name="vi-file-type-html" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        CSS
+                        CSS <v-icon name="vi-file-type-css" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        JS
+                        JS <v-icon name="fa-js" />
                     </button>
-                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        Vue.js
+                        Vue.js <v-icon name="vi-file-type-vue" />
                     </button>
                 </div>
             </div>
+
             <div class="app-tailwind">
                 <a href="https://my-firstapp-tailwind.vercel.app" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Learning Tailwind</h3>
@@ -97,22 +99,23 @@
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        HTML
+                        HTML <v-icon name="vi-file-type-html" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        CSS
+                        CSS <v-icon name="vi-file-type-css" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        JS
+                        JS <v-icon name="fa-js" />
                     </button>
-                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        React.js
+                        React <v-icon name="vi-file-type-reactjs" />
                     </button>
                 </div>
             </div>
+
             <div class="vacacionesCody">
                 <a href="https://mjesusoj.github.io/vacaciones-cody/" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">Vacaciones Cody</h3>
@@ -128,15 +131,15 @@
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        HTML
+                        HTML <v-icon name="vi-file-type-html" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        CSS
+                        CSS <v-icon name="vi-file-type-css" />
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        JS
+                        JS <v-icon name="fa-js" />
                     </button>
                 </div>
             </div>

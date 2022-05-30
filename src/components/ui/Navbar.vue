@@ -10,7 +10,7 @@
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="#about-me"
         >
-          About Me 🦄
+          About Me <v-icon name="fc-about" scale="1.2"/>
       </a>
       <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"

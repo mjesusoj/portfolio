@@ -4,7 +4,7 @@
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
-                    About Me 📘
+                    About Me <v-icon class="mb-2" name="fc-about" scale="2"/>
                 </h2>
                 <ul class="list-disc list-inside text-left p-3 text-sky-200">
                     <li class="mt-2">Desde los 16 años, aprendiendo de la tecnología ✨</li>
