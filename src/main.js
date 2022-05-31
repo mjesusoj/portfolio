@@ -1,12 +1,12 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
+// Import library oh-vue-icons 
 import { OhVueIcon, addIcons } from "oh-vue-icons"
-import { FcRules, FcAbout, ViFileTypeHtml, ViFileTypeCss, ViFileTypeReactjs, ViFileTypeVue } from "oh-vue-icons/icons"
-import * as FaIcons from "oh-vue-icons/icons/fa"
+import * as icons from "oh-vue-icons/icons"
 
-const Fa = Object.values({ ...FaIcons });
-addIcons(FcRules, FcAbout, ViFileTypeHtml, ViFileTypeCss, ViFileTypeReactjs, ViFileTypeVue, ...Fa);
+const vueIcons = Object.values({ ...icons })
+addIcons(...vueIcons)
 
 import './assets/css/index.css'
 

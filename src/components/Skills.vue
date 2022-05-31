@@ -9,18 +9,26 @@
             </p>
         </div>
         <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
-            <span class="inline-grid grid-cols-2 md:grid-cols-5 gap-10">
+            <span class="inline-grid grid-cols-2 md:grid-cols-6 gap-10">
                 <p>
-                    <span class="md:align-top block">HTML </span>
+                    <span class="md:align-top block">HTML</span>
                     <v-icon class="object-top" name="vi-file-type-html" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">CSS </span>
+                    <span class="md:align-top block">CSS</span>
                     <v-icon name="vi-file-type-css" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">JavaScript </span>
-                    <v-icon name="fa-js" scale="3"/>
+                    <span class="md:align-top block">SASS</span>
+                    <v-icon name="vi-file-type-sass" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">JavaScript</span>
+                    <v-icon name="si-javascript" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Node JS</span>
+                    <v-icon name="vi-file-type-node" scale="3"/>
                 </p>
                 <p>
                     <span class="md:align-top block">React.js </span>
@@ -29,6 +37,34 @@
                 <p>
                     <span class="md:align-top block">Vue.js </span>
                     <v-icon name="vi-file-type-vue" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Vite JS</span>
+                    <v-icon name="vi-file-type-vite" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Bootstrap CSS</span>
+                    <v-icon name="fa-bootstrap" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Tailwind CSS</span>
+                    <v-icon name="si-tailwindcss" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Git</span>
+                    <v-icon name="vi-file-type-git" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Github</span>
+                    <v-icon name="fa-github" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">Markdown</span>
+                    <v-icon name="bi-markdown-fill" scale="3"/>
+                </p>
+                <p>
+                    <span class="md:align-top block">VS Code</span>
+                    <v-icon name="si-visualstudiocode" scale="3"/>
                 </p>
             </span>
         </div>
