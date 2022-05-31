@@ -16,6 +16,10 @@
         </div>
 
         <div class="col-start-2 col-span-4">
+          <Skills />
+        </div>
+
+        <div class="col-start-2 col-span-4">
           <Projects />
         </div>
         
@@ -32,10 +36,11 @@
 </template>
 
 <script setup>
-  import Navbar from './components/ui/Navbar.vue'
   import AboutMe from './components/AboutMe.vue'
-  import Projects from './components/Projects.vue'
   import Footer from './components/ui/Footer.vue'
+  import Navbar from './components/ui/Navbar.vue'
+  import Projects from './components/Projects.vue'
+  import Skills from './components/Skills.vue'
 </script>
 
 <style>
