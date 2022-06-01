@@ -1,11 +1,11 @@
 <template>
-    <div id="projects">
+    <div id="soft-skills">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
                 Soft Skills 🎯
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Estas son algunas habilidades blandas que domino 👇
+                Estas son algunas de las habilidades blandas que destaco  👇
             </p>
         </div>
         <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
