@@ -27,10 +27,6 @@
                     <v-icon name="si-javascript" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Node JS</span>
-                    <v-icon name="vi-file-type-node" scale="3"/>
-                </p>
-                <p>
                     <span class="md:align-top block">React.js </span>
                     <v-icon name="vi-file-type-reactjs" scale="3"/>
                 </p>
@@ -57,14 +53,6 @@
                 <p>
                     <span class="md:align-top block">Github</span>
                     <v-icon name="fa-github" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">Markdown</span>
-                    <v-icon name="bi-markdown-fill" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">VS Code</span>
-                    <v-icon name="si-visualstudiocode" scale="3"/>
                 </p>
             </span>
         </div>

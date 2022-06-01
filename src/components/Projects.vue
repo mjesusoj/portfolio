@@ -31,6 +31,14 @@
                     </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        SASS <v-icon name="vi-file-type-sass" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Bootstrap <v-icon name="fa-bootstrap" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         JS <v-icon name="fa-js" />
                     </button>
                     <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
@@ -73,13 +81,21 @@
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         CSS <v-icon name="vi-file-type-css" />
                     </button>
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Bootstrap <v-icon name="fa-bootstrap" />
+                    </button>
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         JS <v-icon name="fa-js" />
                     </button>
                     <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
-                        Vue.js <v-icon name="vi-file-type-vue" />
+                        Vue <v-icon name="vi-file-type-vue" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Font Awesome <v-icon name="si-fontawesome" />
                     </button>
                 </div>
             </div>
@@ -96,7 +112,7 @@
                         Desarrollado con React.js y uso de <b>react-router</b> para el manejo de rutas ✅
                     </li>
                 </ul>
-                <div class="tech mt-2">
+                <div class="tech mt-2 mb-4">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         HTML <v-icon name="vi-file-type-html" />
@@ -112,6 +128,10 @@
                     <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         React <v-icon name="vi-file-type-reactjs" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Tailwind CSS <v-icon name="si-tailwindcss" />
                     </button>
                 </div>
             </div>
@@ -140,6 +160,14 @@
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         JS <v-icon name="fa-js" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Bootstrap <v-icon name="fa-bootstrap" />
+                    </button>
+                    <button class="py-2 px-3 mx-1 mt-2 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                        hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+                        Font Aw <v-icon name="si-fontawesome" />
                     </button>
                 </div>
             </div>

@@ -16,7 +16,7 @@
         </div>
 
         <div class="col-start-2 col-span-4">
-          <Skills />
+          <SoftSkills />
         </div>
 
         <div class="col-start-2 col-span-4">
@@ -40,7 +40,7 @@
   import Footer from './components/ui/Footer.vue'
   import Navbar from './components/ui/Navbar.vue'
   import Projects from './components/Projects.vue'
-  import Skills from './components/Skills.vue'
+  import SoftSkills from './components/SoftSkills.vue'
 </script>
 
 <style>
