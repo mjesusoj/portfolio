@@ -8,7 +8,7 @@
                 Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
             </p>
         </div>
-        <div class="list gap-10 columns-1 lg:columns-3 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
+        <div class="list gap-10 columns-1 xl:columns-3 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
             <div class="craftianosPage">
                 <a href="https://craftianosmoney.com" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">CraftianosMoney Page</h3>
@@ -129,7 +129,7 @@
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         React <v-icon name="vi-file-type-reactjs" />
                     </button>
-                    <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
+                    <button class="py-2 px-3 mx-1 mt-2 lg:mt-0 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
                         hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
                         Tailwind CSS <v-icon name="si-tailwindcss" />
                     </button>
