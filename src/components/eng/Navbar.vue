@@ -4,25 +4,25 @@
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="#"
         >
-          Inicio <v-icon name="fc-home" scale="1.2"/>
+          Home <v-icon name="fc-home" scale="1.2"/>
       </a>
       <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="#about-me"
         >
-          Sobre mí <v-icon name="fc-about" scale="1.2"/>
+          About Me <v-icon name="fc-about" scale="1.2"/>
       </a>
       <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="#soft-skills"
         >
-          Habilidades Blandas 🎯
+          Soft Skills 🎯
       </a>
       <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="#projects"
         >
-          Proyectos 💻
+          Projects 💻
       </a>
     </nav>
 </template>

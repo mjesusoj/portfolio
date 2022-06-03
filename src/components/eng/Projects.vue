@@ -2,7 +2,7 @@
     <div id="projects">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Proyectos 💻
+                Projects 💻
             </h2>
             <p class="text-sky-200 font-medium mt-2">
                 Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.

@@ -5,14 +5,14 @@
         href="https://www.linkedin.com/in/mjesusoj"
         target="_blank" rel="noopener noreferrer"
         >
-          Mi perfil en LinkedIn <v-icon class="icon-linkedin" name="fa-linkedin" />
+          My profile on LinkedIn <v-icon class="icon-linkedin" name="fa-linkedin" />
       </a>
       <a
         class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
         href="https://github.com/mjesusoj/portfolio"
         target="_blank" rel="noopener noreferrer"
         >
-          Proyecto en Github <v-icon class="icon-github" name="fa-github" />
+          Project on Github <v-icon class="icon-github" name="fa-github" />
       </a>
     </nav>
 </template>
