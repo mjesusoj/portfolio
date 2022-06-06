@@ -5,7 +5,7 @@
                 Projects 💻
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
+                Here I show some of the projects I have done, using different technologies and frameworks.
             </p>
         </div>
         <div class="list gap-10 columns-1 xl:columns-3 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
@@ -14,11 +14,13 @@
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">CraftianosMoney Page</h3>
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
-                    <li class="mt-2">Es el proyecto <i>que más completo tengo, ya que se convirtió en un reto personal</i></li>
-                    <li class="mt-2">Desarrollado con <b>React.js</b> y uso de <b>react-router</b> para el manejo de rutas 🔗</li>
-                    <li class="mt-2">Uso de frameworks CSS como <b>Bootstrap</b> y <b>SCSS</b> como preprocesador ✅</li>
-                    <li class="mt-2">Desplegado en <b>hosting independiente y dominio personalizado</b> ✨</li>
-                    <li class="mt-2">Implementación de <b>técnicas SEO</b> para el posicionamiento en buscadores webs ✅</li>
+                    <li class="mt-2">
+                        <i>It is the most complete project I have, since it became a personal challenge</i>
+                    </li>
+                    <li class="mt-2">Developed with <b>React.js</b> and <b>react-router</b> for routes manages 🔗</li>
+                    <li class="mt-2">Use of frameworks <b>Bootstrap</b> and <b>SCSS</b> as a preprocessor ✅</li>
+                    <li class="mt-2">Deploy it on <b>an independient hosting and custom domain</b> ✨</li>
+                    <li class="mt-2">Implementation <b>SEO techniques</b> for the positioning on web search engines ✅</li>
                 </ul>
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 

@@ -6,17 +6,6 @@
             MJesu's Portfolio <v-icon name="fc-rules" scale="2"/>
           </h1>
 
-          <!-- <div class="grid justify-items-stretch">
-            <nav class="justify-self-end space-x-4">
-              <a
-                class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-400 hover:text-slate-900"
-                href=""
-                >
-                  Change 💻
-              </a>
-            </nav>
-          </div> -->
-          
           <Navbar />
         </div>
 

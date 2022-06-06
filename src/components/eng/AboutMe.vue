@@ -7,26 +7,26 @@
                     About Me <v-icon class="mb-2" name="fc-about" scale="2"/>
                 </h2>
                 <ul class="list-disc list-inside text-left p-3 text-sky-200">
-                    <li class="mt-2">Desde los 16 años, aprendiendo de la tecnología ✨</li>
+                    <li class="mt-2">From the age of 16, learning from technology ✨</li>
                     <li class="mt-2">
-                        Comencé tomando el Grado Medio SMR y más tarde el Grado Superior DAW, 
-                        con el que me encontré con el mundo de la programación web ✅ 
+                        I started taking the SMR Middle Grade and later the DAW Higher Grade, 
+                        with which I found myself in the world of web programming ✅ 
                     </li>
                     <li class="mt-2">
-                        Con ayuda de cursos online y mi esfuerzo he llegado hasta hoy, 
-                        aprendiendo más sobre las tecnologías necesarias para desarrollar páginas web, 
-                        incluso en profundizar los frameworks más utilizados en el mercado.
+                        With the help of online courses and my own effort I have come this far, 
+                        learning more about the technologies needed to develop web pages, 
+                        including deepening the most used frameworks in the market.
                     </li>
                 </ul>
             </blockquote>
             <figcaption class="font-bold">
                 <div class="text-sky-500 hover:text-sky-700">
                     <a href="https://www.linkedin.com/in/mjesusoj" target="_blank" rel="noopener noreferrer">
-                        Manuel Jesús Ojeda
+                        Manuel Jesus Ojeda
                     </a>
                 </div>
                 <div class="text-slate-600 dark:text-slate-400">
-                    Front-End Developer 👨‍💻 | Desarrollador web 
+                    Front-End Developer 👨‍💻
                 </div>
             </figcaption>
         </div>
