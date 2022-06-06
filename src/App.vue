@@ -36,11 +36,11 @@
 </template>
 
 <script setup>
-  import AboutMe from './components/AboutMe.vue'
-  import Footer from './components/ui/Footer.vue'
-  import Navbar from './components/ui/Navbar.vue'
-  import Projects from './components/Projects.vue'
-  import SoftSkills from './components/SoftSkills.vue'
+  import AboutMe from './components/es/AboutMe.vue'
+  import Footer from './components/es/ui/Footer.vue'
+  import Navbar from './components/es/ui/Navbar.vue'
+  import Projects from './components/es/Projects.vue'
+  import SoftSkills from './components/es/SoftSkills.vue'
 </script>
 
 <style>

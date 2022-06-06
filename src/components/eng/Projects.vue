@@ -14,13 +14,21 @@
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">CraftianosMoney Page</h3>
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
-                    <li class="mt-2">
-                        <i>It is the most complete project I have, since it became a personal challenge</i>
+                    <li class="mt-2 italic">
+                        It is the most complete project I have, since it became a personal challenge
                     </li>
-                    <li class="mt-2">Developed with <b>React.js</b> and <b>react-router</b> for routes manages 🔗</li>
-                    <li class="mt-2">Use of frameworks <b>Bootstrap</b> and <b>SCSS</b> as a preprocessor ✅</li>
-                    <li class="mt-2">Deploy it on <b>an independient hosting and custom domain</b> ✨</li>
-                    <li class="mt-2">Implementation <b>SEO techniques</b> for the positioning on web search engines ✅</li>
+                    <li class="mt-2">
+                        Developed with <b>React.js</b> and <b>react-router</b> for routes manages 🔗
+                    </li>
+                    <li class="mt-2">
+                        Use of frameworks <b>Bootstrap</b> and <b>SCSS</b> as a preprocessor ✅
+                    </li>
+                    <li class="mt-2">
+                        Deploy it on <b>an independient hosting and custom domain</b> ✨
+                    </li>
+                    <li class="mt-2">
+                        Implementation <b>SEO techniques</b> for the positioning on web search engines ✅
+                    </li>
                 </ul>
                 <div class="tech mt-2">
                     <button class="py-2 px-3 mx-1 bg-blue-500 text-white font-semibold rounded-lg shadow-md 
@@ -57,7 +65,7 @@
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
                         Este proyecto está incluido en el curso de Udemy: <br />
-                        <a class="text-orange-300 hover:text-orange-400 font-bold" 
+                        <a class="text-orange-300 hover:text-orange-400 font-bold italic" 
                             href="https://www.udemy.com/course/vuejs-fh/" target="_blank" rel="noopener noreferrer">
                             Vue.js: De cero a experto
                         </a>
