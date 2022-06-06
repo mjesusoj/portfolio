@@ -7,6 +7,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ### Process to create project with Vite
+
 ```
     npm init vite portfolio
     cd portfolio
@@ -37,3 +38,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ```
     npm run dev
 ```
+
+## Resources that I use on this project
+
+- [Vite JS](https://vitejs.dev/) + [Vue 3](https://vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Oh-Vue-Icons | Icons for Vue](https://oh-vue-icons.js.org/)
