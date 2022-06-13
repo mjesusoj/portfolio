@@ -5,7 +5,7 @@
           <h1 class="text-4xl text-sky-500 font-bold bg-clip-text mb-4">
             MJesu's Portfolio <v-icon name="fc-rules" scale="2"/>
           </h1>
-
+            
           <Navbar />
         </div>
 
@@ -31,7 +31,7 @@
           
           <Footer />
         </div>
-      </div>
+    </div>
   </div>
 </template>
 
