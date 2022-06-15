@@ -3,22 +3,17 @@
     <div class="flex justify-center lg:float-right">
         <button 
             class='switch'
+            :class="{ isActive }"
+            ref="isActive"
             id='switch'
-            @click="switchLanguage"
           >
             <router-link to="/">
-              <span>📘</span>
+              <span>ES</span>
             </router-link>
-            <router-link to="/eng">
-              <span>🚀</span>
+            <router-link to="/eng" @click="englishBtn">
+              <img src="../../assets/united-kingdom.svg.png" width="50" height="50" alt="Bandera Reino Unido">
             </router-link>
         </button>
-        <!-- <a
-          class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-300 hover:text-slate-900"
-          href="#footer"
-          >
-            Change 🚩
-        </a> -->
     </div>
     <nav class="flex sm:justify-center space-x-4 sm:mx-20">
       <a
@@ -51,10 +46,27 @@
 </template>
 
 <script>
+    import { onMounted, ref } from 'vue'
     import '../../assets/css/language.css'
 
     export default {
+        setup() {
+            let isActive = ref(false)
+            
+            const englishBtn = () =>  {
+                isActive.value = true
+            }
 
+            onMounted( () => {
+              console.log('componente montado');
+              isActive.value = false
+            })
+            
+            return {
+              isActive,
+              englishBtn
+            }
+        }
     }
 </script>
 

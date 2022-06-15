@@ -4,11 +4,16 @@
     <div class="flex justify-center lg:float-right">
         <button 
             class='switch'
+            :class="{ active: isActive }"
+            ref="isActive"
             id='switch'
-            @click="switchLanguage"
           >
-            <span>📘</span>
-            <span>🚀</span>
+            <router-link to="/" @click="englishBtn">
+              <img src="../../assets/spain.svg.png" width="50" height="50" alt="Bandera España">
+            </router-link>
+            <router-link to="/eng">
+              <span>ENG</span>
+            </router-link>
         </button>
         <!-- <a
           class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-300 hover:text-slate-900"
@@ -47,20 +52,22 @@
 </template>
 
 <script>
+    import { ref } from 'vue'
     import '../../assets/css/language.css'
 
     export default {
         setup() {
-            const switchLanguage = () => {
-                const active = this.$switch
-                console.log(active);
+            let isActive = ref(true)
+
+            const englishBtn = () =>  {
+                isActive.value = false
             }
 
             return {
-              switchLanguage
+              isActive,
+              englishBtn
             }
         }
-        
     }
 </script>
 
