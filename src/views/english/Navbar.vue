@@ -2,12 +2,20 @@
   <div class="static">
     <!-- TODO: Create button to change language from eng to es and together -->
     <div class="flex justify-center lg:float-right">
-        <a
+        <button 
+            class='switch'
+            id='switch'
+            @click="switchLanguage"
+          >
+            <span>📘</span>
+            <span>🚀</span>
+        </button>
+        <!-- <a
           class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-300 hover:text-slate-900"
           href="#footer"
           >
             Change 🚩
-        </a>
+        </a> -->
     </div>
     <nav class="flex sm:justify-center space-x-4 sm:mx-20">
         <a
@@ -39,8 +47,20 @@
 </template>
 
 <script>
-    export default {
+    import '../../assets/css/language.css'
 
+    export default {
+        setup() {
+            const switchLanguage = () => {
+                const active = this.$switch
+                console.log(active);
+            }
+
+            return {
+              switchLanguage
+            }
+        }
+        
     }
 </script>
 
