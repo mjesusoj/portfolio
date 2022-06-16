@@ -15,12 +15,6 @@
               <span>ENG</span>
             </router-link>
         </button>
-        <!-- <a
-          class="rounded-lg px-3 py-2 text-sky-500 font-bold hover:bg-orange-300 hover:text-slate-900"
-          href="#footer"
-          >
-            Change 🚩
-        </a> -->
     </div>
     <nav class="flex sm:justify-center space-x-4 sm:mx-20">
         <a
@@ -47,6 +41,7 @@
           >
             Projects 💻
         </a>
+        <!-- TODO: Add hobbies button -->
     </nav>
   </div>
 </template>

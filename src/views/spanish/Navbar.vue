@@ -40,6 +40,7 @@
         >
           Proyectos 💻
       </a>
+      <!-- TODO: Add hobbies button -->
     </nav>
   </div>
 

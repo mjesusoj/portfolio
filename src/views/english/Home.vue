@@ -22,6 +22,10 @@
         <div class="col-start-2 col-span-4">
           <Projects />
         </div>
+
+        <div class="col-start-2 col-span-4">
+          <Hobbies />
+        </div>
         
         <div class="col-start-2 col-span-4 mt-5 mb-5">
           <p class="text-sky-200 font-medium mt-2">
@@ -39,6 +43,7 @@
 <script setup>
   import AboutMe from './AboutMe.vue'
   import Footer from './Footer.vue'
+  import Hobbies from './Hobbies.vue'
   import Navbar from './Navbar.vue'
   import Projects from './Projects.vue'
   import SoftSkills from './SoftSkills.vue'
