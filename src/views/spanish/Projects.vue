@@ -50,7 +50,7 @@
 
             <div class="pokemonGame">
                 <a href="https://pokemon-game-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
-                    <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Pokemon Game</h3>
+                    <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Juego Pokemon</h3>
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
@@ -102,7 +102,7 @@
 
             <div class="app-tailwind">
                 <a href="https://my-firstapp-tailwind.vercel.app" target="_blank" rel="noopener noreferrer">
-                    <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Learning Tailwind</h3>
+                    <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text pt-2">Aprendiendo Tailwind</h3>
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
