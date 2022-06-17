@@ -5,13 +5,13 @@
                 Soft Skills 🎯
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Estas son algunas de las habilidades blandas que destaco  👇
+                These are some of the soft skills that I would highlight  👇
             </p>
         </div>
         <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
             <span class="inline-grid grid-cols-2 xl:grid-cols-6 gap-10">
                 <p>
-                    <span class="md:align-top block">Proactivo</span>
+                    <span class="md:align-top block">Proactive</span>
                     <v-icon name="fc-process" scale="3"/>
                 </p>
                 <p>
@@ -19,40 +19,39 @@
                     <v-icon name="fc-approval" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Comunicación efectiva</span>
+                    <span class="md:align-top block">Effectie Communication</span>
                     <v-icon name="hi-speakerphone" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Trabajo en Equipo</span>
+                    <span class="md:align-top block">Team Work</span>
                     <v-icon name="ri-team-line" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Buena Organización</span>
+                    <span class="md:align-top block">Good Organization</span>
                     <v-icon name="md-settingssuggest" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Administración del tiempo</span>
+                    <span class="md:align-top block">Time Managment</span>
                     <v-icon name="fc-overtime" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Responsabilidad</span>
+                    <span class="md:align-top block">Responsibility</span>
                     <v-icon name="bi-clipboard2-check" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Resolución de problemas</span>
+                    <span class="md:align-top block">Troubleshooting</span>
                     <v-icon name="oi-issue-closed" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Aprendizaje Continuo 💪</span>
+                    <span class="md:align-top block">Continuous Learning 💪</span>
                     <v-icon name="oi-rocket" scale="3"/>
-                    <!-- fc-reading-ebook | fc-multiple-devices | oi-mortar-board-->
                 </p>
                 <p>
-                    <span class="md:align-top block">Autoconciencia</span>
+                    <span class="md:align-top block">Awareness</span>
                     <v-icon name="gi-brain" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Mente abierta</span>
+                    <span class="md:align-top block">Open Mind</span>
                     <v-icon name="fa-brain" scale="3"/>
                 </p>
             </span>

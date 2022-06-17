@@ -5,7 +5,7 @@
                 Hobbies 🎯
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Those are some hobbies that I liked it and I do ✅
+                These are some hobbies that I have and that I liked to do ✅
             </p>
         </div>
         <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">

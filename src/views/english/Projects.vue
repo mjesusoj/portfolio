@@ -64,22 +64,22 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Este proyecto está incluido en el curso de Udemy: <br />
+                        This project is include on the Udemy Course: <br />
                         <a class="text-orange-300 hover:text-orange-400 font-bold italic" 
                             href="https://www.udemy.com/course/vuejs-fh/" target="_blank" rel="noopener noreferrer">
                             Vue.js: De cero a experto
                         </a>
                     </li>
                     <li class="mt-2">
-                        Desarrollado con Vue.js y uso de <b>Vuex</b> para el manejo de datos ✅
+                        Developed with Vue.js and use <b>Vuex</b> for data managment ✅
                     </li>
                     <li class="mt-2">
-                        El listado de pokemons se recoge de una API externa
-                        y se muestra en una lista, <br /> con la ayuda de Vuex
+                        The list of pokemons is collected from an external API and is displayed on a list, 
+                        with the help of Vuex
                     </li>
                     <li class="mt-4">
-                        Uso de FontAwesome para mostrar iconos personalizados, animaciones, 
-                        además de incluir una fuente acorde al juego
+                        Using FontAwesome to display custom icons, animations, 
+                        in addition to including a font according to the game
                     </li>
                 </ul>
                 <div class="tech mt-2">
@@ -116,10 +116,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Proyecto personal para aprender a usar Tailwind CSS por primera vez 😍
+                        Personal project to learn how to use Tailwind CSS for the first time 😍
                     </li>
                     <li class="mt-2">
-                        Desarrollado con React.js y uso de <b>react-router</b> para el manejo de rutas ✅
+                        Develop with React.js and use of react-router for routes managment ✅
                     </li>
                 </ul>
                 <div class="tech mt-2 mb-4">
@@ -152,10 +152,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Reto de transformar una página inicial con HTML y CSS a implementarla con Bootstrap
+                        Challenge of transforming an initial page with HTML and CSS to implementing it with Bootstrap
                     </li>
                     <li class="mt-2">
-                        Implementación de fuentes personalizadas, uso del recurso "Google Fonts"
+                        Custom fonts, use of the resource "Google Fonts"
                     </li>
                 </ul>
                 <div class="tech mt-2">
