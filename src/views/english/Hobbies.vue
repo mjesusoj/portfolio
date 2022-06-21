@@ -1,5 +1,5 @@
 <template>
-    <div id="soft-skills">
+    <div id="hobbies">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
                 Hobbies 🎯

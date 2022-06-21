@@ -44,7 +44,7 @@
   import AboutMe from './AboutMe.vue'
   import Footer from './Footer.vue'
   import Hobbies from './Hobbies.vue'
-  import Navbar from './Navbar.vue'
+  import Navbar from '../../components/NavbarEng.vue'
   import Projects from './Projects.vue'
   import SoftSkills from './SoftSkills.vue'
 </script>

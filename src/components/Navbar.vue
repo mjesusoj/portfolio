@@ -3,14 +3,12 @@
     <div class="flex justify-center lg:float-right">
         <button 
             class='switch'
-            :class="{ isActive }"
-            ref="isActive"
             id='switch'
           >
             <router-link to="/">
               <span>ES</span>
             </router-link>
-            <router-link to="/eng" @click="englishBtn">
+            <router-link to="/eng">
               <img src="../assets/united-kingdom.svg.png" width="50" height="50" alt="Bandera Reino Unido">
             </router-link>
         </button>
@@ -52,7 +50,7 @@
     import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
     import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
 
-    import '../helpers/switchEs'
+    import '../assets/css/language.css'
 
     const navigation = [
         { name: 'Inicio', href: '#', current: true },
