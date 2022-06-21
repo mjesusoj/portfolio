@@ -1,16 +1,16 @@
 <template>
-    <figure id="about-me" class="lg:flex bg-slate-100 rounded-lg p-8 lg:p-0 dark:bg-slate-800">
-        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj.png" alt="Imagen MJ"  />
+    <figure id="sobre-mi" class="lg:flex bg-slate-100 rounded-lg p-8 lg:p-0 dark:bg-slate-800">
+        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj-bk.png" alt="Imagen MJ"  />
         <div class="pt-6 md:p-6 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
-                    Sobre mí <v-icon class="mb-2" name="fc-about" scale="2"/>
+                    Sobre mí
                 </h2>
                 <ul class="list-disc list-inside text-left p-3 text-sky-200">
-                    <li class="mt-2">Desde los 16 años, aprendiendo de la tecnología ✨</li>
+                    <li class="mt-2">Desde los 16 años, aprendiendo de la tecnología</li>
                     <li class="mt-2">
                         Comencé tomando el Grado Medio SMR y más tarde el Grado Superior DAW, 
-                        con el que me encontré con el mundo de la programación web ✅ 
+                        con el que me encontré con el mundo de la programación web
                     </li>
                     <li class="mt-2">
                         Con ayuda de cursos online y mi esfuerzo he llegado hasta hoy, 
@@ -35,3 +35,13 @@
 
 <script>
 </script>
+
+<!-- <style scoped>
+    figure img {
+        display: inline-block;
+        background-color: white;
+        max-width: 300px;
+        mix-blend-mode: multiply;
+        filter: grayscale(100%);
+    }
+</style> -->

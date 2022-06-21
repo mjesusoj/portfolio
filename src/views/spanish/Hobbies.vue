@@ -1,11 +1,11 @@
 <template>
-    <div id="soft-skills">
+    <div id="hobbies-es">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Hobbies 🎯
+                Hobbies
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Estos son algunos hobbies que tengo y que me gusta hacer ✅
+                Estos son algunos hobbies que tengo y que me gusta hacer
             </p>
         </div>
         <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">

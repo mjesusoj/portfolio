@@ -11,16 +11,6 @@ addIcons(...vueIcons)
 
 import './assets/css/index.css'
 
-/* import './helpers/getLanguage.vue'
-
-let selectorApp;
-
-if ( localStorage.getItem('lang') == 'en' ) {
-    selectorApp = AppEng;
-} else {
-    selectorApp = App;
-} */
-
 createApp(App)
     .use(router)
     .component('v-icon', OhVueIcon)

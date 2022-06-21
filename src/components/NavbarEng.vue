@@ -8,7 +8,7 @@
             ref="isActive"
             id='switch'
           >
-            <router-link to="/" @click="englishBtn">
+            <router-link to="/es" @click="englishBtn">
               <img src="../../assets/spain.svg.png" width="50" height="50" alt="Bandera España">
             </router-link>
             <router-link to="/eng">
@@ -47,17 +47,23 @@
 </template>
 
 <script>
-    import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
-    import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
+    import { ref } from 'vue'
+    import '../../assets/css/language.css'
 
-    import '../../helpers/switchEng'
+    export default {
+        setup() {
+            let isActive = ref(true)
 
-    const navigation = [
-        { name: 'Dashboard', href: '#', current: true },
-        { name: 'Team', href: '#', current: false },
-        { name: 'Projects', href: '#', current: false },
-        { name: 'Calendar', href: '#', current: false },
-    ]
+            const englishBtn = () =>  {
+                isActive.value = false
+            }
+
+            return {
+              isActive,
+              englishBtn
+            }
+        }
+    }
 </script>
 
 <style scoped>

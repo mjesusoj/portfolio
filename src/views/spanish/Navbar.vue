@@ -39,36 +39,13 @@
         href="#projects"
         >
           Proyectos 💻
-      </a>
-      <!-- TODO: Add hobbies button -->
+      </a> 
     </nav>
   </div>
 
 </template>
 
 <script>
-    import { onMounted, ref } from 'vue'
-    import '../../assets/css/language.css'
-
-    export default {
-        setup() {
-            let isActive = ref(false)
-            
-            const englishBtn = () =>  {
-                isActive.value = true
-            }
-
-            onMounted( () => {
-              console.log('componente montado');
-              isActive.value = false
-            })
-            
-            return {
-              isActive,
-              englishBtn
-            }
-        }
-    }
 </script>
 
 <style scoped>
