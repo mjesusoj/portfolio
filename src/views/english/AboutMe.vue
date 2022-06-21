@@ -1,6 +1,6 @@
 <template>
     <figure id="about-me" class="lg:flex bg-slate-100 rounded-lg p-8 lg:p-0 dark:bg-slate-800">
-        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj.png" alt="Imagen MJ"  />
+        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj-back.png" alt="Imagen MJ"  />
         <div class="pt-6 md:p-6 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
