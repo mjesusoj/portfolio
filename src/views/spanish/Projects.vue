@@ -8,7 +8,7 @@
                 Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
             </p>
         </div>
-        <div class="list gap-10 columns-1 xl:columns-3 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
+        <div class="list gap-10 columns-1 xl:columns-3 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
             <div class="craftianosPage">
                 <a href="https://craftianosmoney.com" target="_blank" rel="noopener noreferrer">
                     <h3 class="text-2xl text-sky-500 hover:text-sky-700 font-bold bg-clip-text">CraftianosMoney Page</h3>

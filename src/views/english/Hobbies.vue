@@ -8,7 +8,7 @@
                 These are some hobbies that I have and that I liked to do ✅
             </p>
         </div>
-        <div class="list gap-10 dark:bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
+        <div class="list gap-10 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
             <span class="inline-grid grid-cols-2 xl:grid-cols-6 gap-10">
                 <p>
                     <span class="md:align-top block">Listening music</span>
