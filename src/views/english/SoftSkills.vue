@@ -43,7 +43,7 @@
                     <v-icon name="oi-issue-closed" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Continuous Learning 💪</span>
+                    <span class="md:align-top block">Continuous Learning</span>
                     <v-icon name="oi-rocket" scale="3"/>
                 </p>
                 <p>

@@ -43,9 +43,8 @@
                     <v-icon name="oi-issue-closed" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Aprendizaje Continuo 💪</span>
+                    <span class="md:align-top block">Aprendizaje Continuo</span>
                     <v-icon name="oi-rocket" scale="3"/>
-                    <!-- fc-reading-ebook | fc-multiple-devices | oi-mortar-board-->
                 </p>
                 <p>
                     <span class="md:align-top block">Autoconciencia</span>
