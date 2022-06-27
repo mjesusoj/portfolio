@@ -5,7 +5,7 @@
                 Intereses
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Algunos temas en los que estoy interesado y me gustan
+                Adicionalmente, me gusta aprender sobre algunos de estos temas
             </p>
         </div>
         <div class="list gap-10 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
@@ -25,10 +25,6 @@
                 <p>
                     <span class="md:align-top block">Privacidad</span>
                     <v-icon name="fc-privacy" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">Salud y Ejercicio</span>
-                    <v-icon name="gi-health-normal" scale="3"/>
                 </p>
             </span>
         </div>
