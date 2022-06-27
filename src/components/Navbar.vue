@@ -57,7 +57,7 @@
         { name: 'Sobre mí', href: '#sobre-mi', current: false },
         { name: 'Habilidades Blandas', href: '#habilidades-blandas', current: false },
         { name: 'Proyectos', href: '#proyectos', current: false },
-        { name: 'Hobbies', href: '#hobbies-es', current: false },
+        { name: 'Intereses', href: '#intereses', current: false },
     ]
 </script>
 

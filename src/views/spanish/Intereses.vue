@@ -1,11 +1,11 @@
 <template>
-    <div id="hobbies-es">
+    <div id="intereses">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Hobbies
+                Intereses
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Estos son algunos hobbies que tengo y que me gusta hacer
+                Algunos temas en los que estoy interesado y me gustan
             </p>
         </div>
         <div class="list gap-10 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
@@ -29,18 +29,6 @@
                 <p>
                     <span class="md:align-top block">Salud y Ejercicio</span>
                     <v-icon name="gi-health-normal" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">Música</span>
-                    <v-icon name="co-apple-music" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">Libros</span>
-                    <v-icon name="fc-reading" scale="3"/>
-                </p>
-                <p>
-                    <span class="md:align-top block">Juegos</span>
-                    <v-icon name="io-game-controller" scale="3"/>
                 </p>
             </span>
         </div>

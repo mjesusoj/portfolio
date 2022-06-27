@@ -56,7 +56,7 @@
         { name: 'About Me', href: '#about-me', current: false },
         { name: 'Soft Skills', href: '#soft-skills', current: false },
         { name: 'Proyects', href: '#projects', current: false },
-        { name: 'Hobbies', href: '#hobbies', current: false },
+        { name: 'Interest', href: '#interest', current: false },
     ]
 </script>
 

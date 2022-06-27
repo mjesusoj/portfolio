@@ -6,7 +6,7 @@ const routes = [
         name: 'home',
         component: () => import(/* webpackChunkName: "home" */ '../views/spanish/Home.vue')
     },
-    ...['/sobre-mi', '/habilidades-blandas', '/proyectos', '/hobbies-es'].map(path => ({
+    ...['/sobre-mi', '/habilidades-blandas', '/proyectos', '/intereses'].map(path => ({
         path,
         component: () => import(/* webpackChunkName: "home" */ '../views/spanish/Home.vue')
     })),
@@ -15,7 +15,7 @@ const routes = [
         name: 'english-app',
         component: () => import(/* webpackChunkName: "english-app" */ '../views/english/Home.vue')
     },
-    ...['/about-me', '/soft-skills', '/projects', '/hobbies'].map(path => ({
+    ...['/about-me', '/soft-skills', '/projects', '/interest'].map(path => ({
         path,
         component: () => import(/* webpackChunkName: "home" */ '../views/english/Home.vue')
     })),

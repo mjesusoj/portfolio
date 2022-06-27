@@ -24,7 +24,7 @@
         </div>
 
         <div class="col-start-2 col-span-4">
-          <Hobbies />
+          <Intereses />
         </div>
         
         <div class="col-start-2 col-span-4 mt-5 mb-5">
@@ -43,7 +43,7 @@
 <script setup>
   import AboutMe from './AboutMe.vue'
   import Footer from './Footer.vue'
-  import Hobbies from './Hobbies.vue'
+  import Intereses from './Intereses.vue'
   import Navbar from '../../components/Navbar.vue'
   import Projects from './Projects.vue'
   import SoftSkills from './SoftSkills.vue'
