@@ -2,7 +2,7 @@
     <div id="projects">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Projects 💻
+                Projects
             </h2>
             <p class="text-sky-200 font-medium mt-2">
                 Here I show some of the projects I have done, using different technologies and frameworks.
@@ -71,14 +71,14 @@
                         </a>
                     </li>
                     <li class="mt-2">
-                        Developed with Vue.js and use <b>Vuex</b> for data managment ✅
+                        Developed with <b>Vue.js</b> and use <b>Vuex</b> for data managment ✅
                     </li>
                     <li class="mt-2">
-                        The list of pokemons is collected from an external API and is displayed on a list, 
-                        with the help of Vuex
+                        The list of pokemons is collected from an <b>external API</b> and is displayed on a list, 
+                        <b>with the help of Vuex</b>
                     </li>
                     <li class="mt-4">
-                        Using FontAwesome to display custom icons, animations, 
+                        Using <b>FontAwesome</b> to display custom icons, animations, 
                         in addition to including a font according to the game
                     </li>
                 </ul>
@@ -116,10 +116,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Personal project to learn how to use Tailwind CSS for the first time 😍
+                        Personal project to learn how to use <b>Tailwind CSS</b> for the first time 😍
                     </li>
                     <li class="mt-2">
-                        Develop with React.js and use of react-router for routes managment ✅
+                        Develop with <b>React.js</b> and use of <b>react-router</b> for routes managment ✅
                     </li>
                 </ul>
                 <div class="tech mt-2 mb-4">
@@ -152,10 +152,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Challenge of transforming an initial page with HTML and CSS to implementing it with Bootstrap
+                        Challenge of transforming an initial page with <b>HTML and CSS</b> to implementing it with <b>Bootstrap</b>
                     </li>
                     <li class="mt-2">
-                        Custom fonts, use of the resource "Google Fonts"
+                        Custom fonts, use of the resource <b>"Google Fonts"</b>
                     </li>
                 </ul>
                 <div class="tech mt-2">

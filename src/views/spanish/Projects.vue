@@ -61,14 +61,14 @@
                         </a>
                     </li>
                     <li class="mt-2">
-                        Desarrollado con Vue.js y uso de <b>Vuex</b> para el manejo de datos ✅
+                        Desarrollado con <b>Vue.js</b> y uso de <b>Vuex</b> para el manejo de datos ✅
                     </li>
                     <li class="mt-2">
-                        El listado de pokemons se recoge de una API externa
-                        y se muestra en una lista, <br /> con la ayuda de Vuex
+                        El listado de pokemons se recoge de una <b>API externa</b>
+                        y se muestra en una lista, <br /> <b>con la ayuda de Vuex</b>
                     </li>
                     <li class="mt-4">
-                        Uso de FontAwesome para mostrar iconos personalizados, animaciones, 
+                        Uso de <b>FontAwesome</b> para mostrar iconos personalizados, animaciones, 
                         además de incluir una fuente acorde al juego
                     </li>
                 </ul>
@@ -106,10 +106,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Proyecto personal para aprender a usar Tailwind CSS por primera vez 😍
+                        Proyecto personal para aprender a usar <b>Tailwind CSS</b> por primera vez 😍
                     </li>
                     <li class="mt-2">
-                        Desarrollado con React.js y uso de <b>react-router</b> para el manejo de rutas ✅
+                        Desarrollado con <b>React.js</b> y uso de <b>react-router</b> para el manejo de rutas ✅
                     </li>
                 </ul>
                 <div class="tech mt-2 mb-4">
@@ -142,10 +142,10 @@
                 </a>
                 <ul class="list-disc list-inside text-left p-3">
                     <li class="mt-2">
-                        Reto de transformar una página inicial con HTML y CSS a implementarla con Bootstrap
+                        Reto de transformar una página inicial con <b>HTML y CSS</b> a implementarla con <b>Bootstrap</b>
                     </li>
                     <li class="mt-2">
-                        Implementación de fuentes personalizadas, uso del recurso "Google Fonts"
+                        Implementación de fuentes personalizadas, uso del recurso <b>"Google Fonts"</b>
                     </li>
                 </ul>
                 <div class="tech mt-2">

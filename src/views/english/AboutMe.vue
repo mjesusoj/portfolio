@@ -5,13 +5,13 @@
         <div class="pt-6 md:p-6 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
-                    About Me <v-icon class="mb-2" name="fc-about" scale="2"/>
+                    About Me
                 </h2>
                 <ul class="list-disc list-inside text-left p-3 text-sky-200">
-                    <li class="mt-2">From the age of 16, learning from technology ✨</li>
+                    <li class="mt-2">From the age of 16, learning from technology</li>
                     <li class="mt-2">
                         I started taking the SMR Middle Grade and later the DAW Higher Grade, 
-                        with which I found myself in the world of web programming ✅ 
+                        with which I found myself in the world of web programming
                     </li>
                     <li class="mt-2">
                         With the help of online courses and my own effort I have come this far, 

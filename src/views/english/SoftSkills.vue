@@ -2,10 +2,10 @@
     <div id="soft-skills">
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
             <h2 class="text-3xl text-sky-500 font-bold bg-clip-text">
-                Soft Skills 🎯
+                Soft Skills
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                These are some of the soft skills that I would highlight  👇
+                Here, It is shown some of the proyects which I've done using a widespread variety of tecnologies and frameworks
             </p>
         </div>
         <div class="list gap-10 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
