@@ -5,7 +5,7 @@
                 Proyectos
             </h2>
             <p class="text-sky-200 font-medium mt-2">
-                Aquí muestro algunos de proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
+                Aquí muestro algunos de los proyectos que he realizado, utilizando diferentes tecnologías y frameworks.
             </p>
         </div>
         <div class="list gap-10 columns-1 xl:columns-3 bg-slate-800 text-sky-200 p-5 mt-4 md:mt-0">
