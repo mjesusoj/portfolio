@@ -19,10 +19,6 @@
                     <v-icon name="fc-approval" scale="3"/>
                 </p>
                 <p>
-                    <span class="md:align-top block">Effectie Communication</span>
-                    <v-icon name="hi-speakerphone" scale="3"/>
-                </p>
-                <p>
                     <span class="md:align-top block">Team Work</span>
                     <v-icon name="ri-team-line" scale="3"/>
                 </p>

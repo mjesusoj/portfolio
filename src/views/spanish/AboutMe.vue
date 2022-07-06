@@ -1,6 +1,7 @@
 <template>
     <figure id="sobre-mi" class="lg:flex rounded-lg p-8 lg:p-0 bg-slate-800">
-        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj-back.png" alt="Imagen MJ"  />
+        <img class="w-25 h-24 md:w-3/12 md:h-full md:rounded-md rounded-full mx-auto" src="../../assets/photo-mj-back.png" 
+            alt="Imagen MJ" />
         <div class="pt-6 md:p-6 text-center md:text-left space-y-4">
             <blockquote>
                 <h2 class="text-3xl text-sky-400 font-bold bg-clip-text">
@@ -13,9 +14,9 @@
                         con el que me encontré con el mundo de la programación web
                     </li>
                     <li class="mt-2">
-                        Con ayuda de cursos online y mi esfuerzo he llegado hasta hoy, 
-                        aprendiendo más sobre las tecnologías necesarias para desarrollar páginas web, 
-                        incluso en profundizar los frameworks más utilizados en el mercado.
+                        Me he formado con ayuda de cursos online y mi esfuerzo, he aprendido más 
+                        sobre las tecnologías necesarias para desarrollar páginas web,
+                        además de conocer los frameworks más utilizados en el mercado
                     </li>
                 </ul>
             </blockquote>

@@ -16,7 +16,7 @@
                     <li class="mt-2">
                         With the help of online courses and my own effort I have come this far, 
                         learning more about the technologies needed to develop web pages, 
-                        including deepening the most used frameworks in the market.
+                        including deepening the most used frameworks in the market
                     </li>
                 </ul>
             </blockquote>
